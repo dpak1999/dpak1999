@@ -11,7 +11,7 @@
 
 - 💬 Ask me anything about **React JS and web in general**
 
-- 📫 How to reach me **deepakkumardash313@gmail.com**
+- 📫 How to reach me **admin@dpak.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
